@@ -24,7 +24,7 @@
     ![php1](https://user-images.githubusercontent.com/49848867/187021994-6482195e-2d23-45cc-ac42-1e5147c94422.png)
   
   ### 회원가입(Join)
-  
+    ![phpjoin](https://user-images.githubusercontent.com/49848867/187021957-acb967ab-8624-4315-b436-3e3d1f2da3f7.png)
   ### 메인 홈(Mainhome)
   
   ### 명함 등록(Regist)
