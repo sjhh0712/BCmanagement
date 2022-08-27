@@ -22,4 +22,10 @@
     
   ### 로그인(Log In)
   
+  ### 회원가입(Join)
   
+  ### 메인 홈(Mainhome)
+  
+  ### 명함 등록(Regist)
+  
+  ### 명함 리스트 보기(RegList)
