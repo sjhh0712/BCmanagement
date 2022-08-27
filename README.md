@@ -36,17 +36,18 @@
     ![regist](https://user-images.githubusercontent.com/49848867/187022032-55324b64-3c16-4e2b-acff-5e02b1fabb7c.png)
     
   ### 명함 리스트 보기(RegList)
-    ![listshow](https://user-images.githubusercontent.com/49848867/187022060-fa54bbc6-199f-4ed5-aae6-f7efece030ac.png)
   > jq그리드를 통해 <명함 등록>에서 등록한 자신의 명함을 확인할 수 있다.
+    ![listshow](https://user-images.githubusercontent.com/49848867/187022060-fa54bbc6-199f-4ed5-aae6-f7efece030ac.png)
     
   - 리스트 클릭 시
-  ![listclick](https://user-images.githubusercontent.com/49848867/187022077-4e0870f0-55e6-4c61-94f0-a39d8b4307e6.png)
   > 수정 및 삭제하고자 하는 리스트를 마우스 클릭시 모달창이 나타난다.
+  ![listclick](https://user-images.githubusercontent.com/49848867/187022077-4e0870f0-55e6-4c61-94f0-a39d8b4307e6.png)
   
-  - 명함 수정
+  
+  - 명함 수정 및 삭제
+  > 수정 및 삭제 작업은 AJAX를 통한 비동기 방식으로 이루어진다.
+    + 수정
   ![updatelist](https://user-images.githubusercontent.com/49848867/187022089-73b77a09-1bf8-4f4a-bd1f-1f1af19152d5.png)
-  
-  - 명함 삭제
+    + 삭제
   ![deletelist](https://user-images.githubusercontent.com/49848867/187022130-c87e2572-e3ff-4be6-80ec-05ae93362567.png)
   
-  > 수정 및 삭제 작업은 AJAX를 통한 비동기 방식으로 이루어진다.
