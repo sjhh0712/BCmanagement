@@ -58,3 +58,7 @@ class Sql_model extends Model {
 	}
 }
 ?>
+
+```
+
+> Sql_model클래스는 run함수를 통해 Controller에서 호출되는 query문을 실행한다.
