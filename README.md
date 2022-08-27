@@ -17,7 +17,7 @@
      
   - < View >
 
-     View는 기본적으로 HTML과 JavaScript로 이루어진 파일들의 집합으로 브라우저 부분을 표시한다.
+     View는 기본적으로 HTML과 JavaScript,jquery로 이루어진 파일들의 집합으로 브라우저 부분을 표시한다.
      
     
   ### 로그인(Log In)
