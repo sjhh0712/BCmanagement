@@ -31,14 +31,15 @@
     ![phpjoin](https://user-images.githubusercontent.com/49848867/187021957-acb967ab-8624-4315-b436-3e3d1f2da3f7.png)
     
   ### 메인 홈(Mainhome)
+  ▶ 명함을 등록하거나 등록된 리스트를 볼 수 있다.
     ![phpmain](https://user-images.githubusercontent.com/49848867/187022021-85c80c20-9711-4aed-b803-260d85a2f26e.png)
+  <br></br>
+  - <p>명함 등록(Regist)</p>
+  ![regist](https://user-images.githubusercontent.com/49848867/187022032-55324b64-3c16-4e2b-acff-5e02b1fabb7c.png)
     
-  ### 명함 등록(Regist)
-    ![regist](https://user-images.githubusercontent.com/49848867/187022032-55324b64-3c16-4e2b-acff-5e02b1fabb7c.png)
-    
-  ### 명함 리스트 보기(RegList)
-    > jq그리드를 통해 <명함 등록>에서 등록한 자신의 명함을 확인할 수 있다.
-    
+  - <p>명함 리스트 보기(RegList)</p>
+    > jq그리드를 통해 <명함 등록>에서 등록한 자신의 명함을 확인할 수 있다. 
+   
   ![listshow](https://user-images.githubusercontent.com/49848867/187022060-fa54bbc6-199f-4ed5-aae6-f7efece030ac.png)
     
   - 리스트 클릭 시
