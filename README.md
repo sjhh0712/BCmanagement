@@ -18,12 +18,13 @@
   - < View >
 
      View는 기본적으로 HTML과 JavaScript,jquery로 이루어진 파일들의 집합으로 브라우저 부분을 표시한다.
+  ----------------------------------------------------------------------------------------------------------------------
      
     
   ### 로그인(Log In)
     ![php1](https://user-images.githubusercontent.com/49848867/187021994-6482195e-2d23-45cc-ac42-1e5147c94422.png)
     
-  - 로그인 성공
+  - 로그인 성공 (ID정보를 세션에 저장한다)
     ![loginok](https://user-images.githubusercontent.com/49848867/187021961-e7cc9d8a-e1a9-4fce-af7b-2bb775457ab3.png)
   
   ### 회원가입(Join)
